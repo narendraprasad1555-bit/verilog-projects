@@ -1,22 +1,4 @@
-//===========================================================================================================
-//DFT Training institute pvt Limited
-//
-//copyrights (C)2024 DFT Training Institute Pvt LTD
-//
-//All rights reserved
-//
-//Project  : designing stuckatgates using gate level modelling
-//module   : stuckatgates 
-////Author   :Narendra prasad.R
-//Date     :29/05/2024
-//Description :
-//
-//version  :v1.1
-//
-//Revision updates
-//0.1-22/05/2024-initial
-//
-//==================================================================================================================
+
 //module declaration
 module stuckatgates(s0,s1,s2,s3,s4,s5,a,b,y);
 //port declaration
