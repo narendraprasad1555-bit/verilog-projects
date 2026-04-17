@@ -1,22 +1,4 @@
-//===============================================================================================================
-//DFT Training institute pvt Limited
-//
-//copyrights (C)2024 DFT Training Institute Pvt LTD
-//
-//All rights reserved
-//
-//Project  : designing traffic controller using behaviour level modelling
-//module   : 
-//Author   :Narendra prasad.R
-//Date     :11/06/2024
-//Description :
-//
-//version  :v1.1
-//
-//Revision updates
-//0.1-11/06/2024-initial
-//
-//===============================================================================================================
+
 //module declaration
 module tc(hwy,cntry,x,clk,reset);
 //port declaration
