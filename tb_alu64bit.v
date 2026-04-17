@@ -1,22 +1,4 @@
-//===============================================================================================================
-//DFT Training institute pvt Limited
-//
-//copyrights (C)2024 DFT Training Institute Pvt LTD
-//
-//All rights reserved
-//
-//Project  : designing 64bit alu using gate level modelling
-//module   : 64bit alu using gate level modelling 
-//Author   :Narendra prasad.R
-//Date     :13/06/2024
-//Description :
-//
-//version  :v1.1
-//
-//Revision updates
-//0.1-13/06/2024-initial
-//
-//===============================================================================================================
+
 // test bench module declaration
 module tb_alu64bit;
 //data declaration
