@@ -1,0 +1,40 @@
+$date
+	Wed Jun  5 15:56:10 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module tb_halfadder $end
+$var wire 1 ! tb_s $end
+$var wire 1 " tb_c $end
+$var reg 1 # tb_a $end
+$var reg 1 $ tb_b $end
+$scope module o1 $end
+$var wire 1 # a $end
+$var wire 1 $ b $end
+$var wire 1 " c $end
+$var wire 1 ! s $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0$
+0#
+0"
+0!
+$end
+#5
+1!
+1$
+#10
+0$
+1#
+#15
+0!
+1"
+1$
+#65
