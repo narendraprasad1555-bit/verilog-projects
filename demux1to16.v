@@ -1,22 +1,4 @@
-//===========================================================================================================
-//DFT Training institute pvt Limited
-//
-//copyrights (C)2024 DFT Training Institute Pvt LTD
-//
-//All rights reserved
-//
-//Project  : designing demux1to16 gate level modelling
-//module   : demux1to4
-//Author   :Narendra prasad.R
-//Date     :03/05/2024
-//Description :
-//
-//version  :v1.1
-//
-//Revision updates
-//0.1-22/05/2024-initial
-//
-//===================================================================================================================
+
 //module declaration
 module  demux1to16(y0,y1,y2,y3,y4,y5,y6,y7,y8,y9,y10,y11,y12,y13,y14,y15,i,s3,s2,s1,s0);
 //port declaration
