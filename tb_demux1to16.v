@@ -1,23 +1,4 @@
-//==================================================================================================================
-//DFT Training institute pvt Limited
-//
-//copyrights (C)2024 DFT Training Institute Pvt LTD
-//
-//All rights reserved
-//
-//Project  : designing demux1to16 gate level modelling
-//module   : demux1to16
-//Author   :Narendra prasad.R
-//Date     :04/05/2024
-//Description :
-//
-//version  :v1.1
-//
-//Revision updates
-//0.1-22/05/2024-initial
-//
-//==================================================================================================================
-//test bench module declaration
+
 module tb_demux1to16;
 //data type declaraction
 reg  tb_s3,tb_s2,tb_s1,tb_s0,tb_i;
